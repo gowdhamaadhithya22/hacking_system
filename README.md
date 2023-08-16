@@ -1,3 +1,54 @@
+Hello everyone!
+
+This is based on my project over Cyber Security on Hacking and Penetrating into a Windows System
+
+INTRODUCTION
+
+   Cybercrime is a global problem that’s been dominating the news cycle. It poses a threat to individual security and an even bigger threat to large international companies, banks, and governments.
+   
+   Today’s organized cybercrimes far out shadow lone hackers of the past now large organized crime rings function like start-ups and often employ highly-trained developers who are constantly innovating online attacks. It can be rightfully said that today’s generation lives on the internet, and we general users are almost ignorant as to how those random bits of 1’s and 0’s reach securely to our computer.
+   
+   For a hacker, it’s a golden age. With so many access points, public IP’s and constant traffic and tons of data to exploit, black hat hackers, are having one hell of a time exploiting vulnerabilities and creating malicious software for the same. Above that, cyber-attacks are evolving by the day. Hackers are becoming smarter and more creative with their malware and how they bypass virus scans and firewalls still baffles many people. There has to be some sort of protocol that protects us against all these cyberattacks and makes sure our data doesn’t fall into the wrong hands. 
+   
+   Cybersecurity refers to a set of techniques used to protect the integrity of networks, programs and data from attack, damage or unauthorized access.
+   
+   From a computing point of view, security comprises cybersecurity and physical security both are used by enterprises to protect against unauthorized access to data centres and other computerized systems. Information security, which is designed to maintain the confidentiality, integrity, and availability of data, is a subset of cybersecurity. The use of cyber security can help prevent cyber-attacks, data breaches, and identity theft and can aid in risk management.
+ 
+   There are three main aspects we are trying to control, name: 
+•	Unauthorised Access
+•	Unauthorised Deletion
+•	Unauthorised Modification
+ 		
+   These three terms are synonymous with the very commonly known CIA triad which stands for Confidentiality, Integrity, and Availability.
+   
+   The CIA triad which stands for Confidentiality, Integrity, and Availability is a design model to guide companies and organizations to form their security policies. It is also known as the AIC triad to avoid confusion with Central Intelligence Agency (CIA).
+When identifying, analysing and treating a cyber-attack, there are three principals that are kept in mind for various calculations. They are:
+•	Vulnerability
+•	Threat
+•	Risk
+
+
+MODULE DESCRIPTION
+
+3.1 Tasks
+    Hack into a Windows Machine by performing Network Scanning to find exploits and perform MITM on your Windows Machine
+
+3.2 Target
+    Device with Windows Operating System 
+
+3.3 Tools
+•	Bettercap
+•	Nmap
+•	Wireshark
+
+3.4 Processes
+•	Disabling the firewall
+•	Network Scanning to find exploits
+•	Perform MITM
+•	Find and exploit the Vulnerabilities
+•	Downloading payload
+•	Exploit DB
+
 # hacking_system
 
 Step 1: Do a host discovery & perform an Enumeration
